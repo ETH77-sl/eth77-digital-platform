@@ -27,7 +27,7 @@ Beberapa aspek penting dalam perkembangan platform modern:
 
 Informasi lengkap mengenai perkembangan:
 
-[ETH77 platform](https://www.akdumanonline.com/perkembangan-platform-digital-eth77/)
+(https://www.akdumanonline.com/perkembangan-platform-digital-eth77/)
 
 
 ## Digital Network References
@@ -50,6 +50,11 @@ Digital Platform
 Technology Innovation  
 Online Experience  
 
+## Additional Reference
+
+Google Site:
+
+(https://sites.google.com/view/eth77-digital-platform-new/home)
 
 ---
 
